@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I am Dmitriy</h1>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" /></a>
+<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" /></a>
 
 
 <!--
